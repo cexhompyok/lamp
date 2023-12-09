@@ -10,7 +10,7 @@ the idea here is to create an automatic installation lamp script where it will m
 Auto Install Lamp It is an application for ubuntu server 20.04 where it automatically installs all the apache mysql and php leaving you ready for use
 
 <p align="center">
-<a href="https://github.com/Jeffersoncharlles/auto_install_Lamp.git"><img src="https://img.shields.io/badge/auto-installLamp-yellowgreen" alt="Build Status"></a>
+<a href="https://github.com/cexhompyok/lamp/auto_install_Lamp.git"><img src="https://img.shields.io/badge/auto-installLamp-yellowgreen" alt="Build Status"></a>
 </p>
 
 ## Functionalities
@@ -43,7 +43,7 @@ ubuntu 20.04
 **Cloning the Repository** **Installing dependencies**
 
 ```
-$ git clone https://github.com/Jeffersoncharlles/auto_install_Lamp.git
+$ git clone https://github.com/cexhompyok/lamp/auto_install_Lamp.git
 
 $ cd auto_install_Lamp 
 $ sudo chmod +x auto_install_Lamp-20-04.sh
@@ -55,10 +55,6 @@ $ sudo bash ./auto_install_Lamp-20-04.sh
 ## Contributing
 
 You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
-
-Email-me: contato@jefferdeveloper.com
-
-Connect with me at [LinkedIn](https://www.linkedin.com/in/jefferdeveloper/)
 
 Thank you!
 
